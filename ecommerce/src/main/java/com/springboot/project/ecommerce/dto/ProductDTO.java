@@ -1,4 +1,4 @@
-package dto;
+package com.springboot.project.ecommerce.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
